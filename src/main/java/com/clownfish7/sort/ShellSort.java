@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author yzy
  * @classname ShellSort
- * @description TODO
+ * @description 希尔排序
  * @create 2019-09-02 15:41
  */
 public class ShellSort {

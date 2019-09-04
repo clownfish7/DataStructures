@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author yzy
  * @classname BubbleSort
- * @description TODO
+ * @description 冒泡排序
  * @create 2019-09-02 9:54
  */
 public class BubbleSort {

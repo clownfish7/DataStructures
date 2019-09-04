@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author yzy
  * @classname SelectSort
- * @description TODO
+ * @description 选择排序
  * @create 2019-09-02 10:53
  */
 public class SelectSort {

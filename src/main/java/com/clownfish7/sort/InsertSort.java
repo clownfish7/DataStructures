@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author yzy
  * @classname InsertSort
- * @description TODO
+ * @description 插入排序
  * @create 2019-09-02 14:58
  */
 public class InsertSort {
