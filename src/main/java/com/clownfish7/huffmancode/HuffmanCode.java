@@ -22,13 +22,13 @@ public class HuffmanCode {
         byte[] decode = decode(huffmancodes, zipBytes);
         System.out.println(new String(decode));*/
 
-        String srcFile = "f://a.png";
+        String srcFile = "f://background.jpg";
         String dstFile = "f://dst.zip";
         zipFile(srcFile, dstFile);
         System.out.println("zip file success");
 
         String zipFile = "f://dst.zip";
-        dstFile = "f://dst.png";
+        dstFile = "f://dst.jpg";
         unZipFile(zipFile, dstFile);
         System.out.println("unzip file success ");
 
